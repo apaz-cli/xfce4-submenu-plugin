@@ -1,0 +1,11 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+_Name=xfce4-submenu-plugin
+_Comment=A bar within a bar for xfce4-panel.
+Icon=xfce4-submenu-plugin
+X-XFCE-Exec=/usr/libexec/xfce4/panel-plugins/xfce4-submenu-plugin
+X-XFCE-Module=xfce4-submenu-plugin
+X-XFCE-Module-Path=/usr/lib/xfce4/panel-plugins
+X-XFCE-Unique=true
+X-XFCE-API=2.0
